@@ -1,0 +1,240 @@
+body {
+    font-family: 'Ubuntu', sans-serif;
+}
+.container {
+    position: relative;
+    text-align: center;
+    color: black;
+}
+img {
+    width: 100%;
+}
+.centered {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: white;
+    font-size: 30px;
+}
+.link-button {
+    text-decoration: none;
+    background-color: rgb(155, 241, 98);
+    border: 10px;
+    padding: 10px 10px;
+    border-radius: 10px;
+}
+.color {
+    color: aqua;
+}
+.font-fixed {
+    font-size: 40px;
+    text-align: center;
+}
+#font {
+    font-size: 20px;
+    color: grey;
+}
+.flex {
+    display: flex;
+    text-align: center;
+    margin-left: 350px;
+}
+.box1 {
+    width: 65px;
+    height: 60px;
+    border: 2px solid rgb(223, 17, 137);
+    padding: 20px;
+    border-radius: 10px;
+    margin: 10px;
+    background-color: rgb(236, 223, 226);
+
+}
+.box2 {
+    width: 65px;
+    height: 60px;
+    border: 2px solid rgb(223, 17, 137);
+    padding: 20px;
+    margin: 10px;
+    border-radius: 10px;
+    background-color: rgb(236, 223, 226);
+
+}
+.box3 {
+    width: 65px;
+    height: 60px;
+    border: 2px solid rgb(223, 17, 137);
+    padding: 20px;
+    margin: 10px;
+    border-radius: 10px;
+    background-color: rgb(236, 223, 226);
+
+}
+.box4 {
+    width: 65px;
+    height: 60px;
+    border: 2px solid rgb(223, 17, 137);
+    border-radius: 10px;
+    padding: 20px;
+    margin: 10px;
+    background-color: rgb(236, 223, 226);
+}
+.box5 {
+    width: 65px;
+    height: 60px;
+    border: 2px solid rgb(223, 17, 137);
+    padding: 20px;
+    border-radius: 10px;
+    margin: 10px;
+    background-color: rgb(236, 223, 226);
+}
+.f1 {
+    font-size: 20px;
+    font-weight: bold;
+    color: rgb(226, 98, 83);
+}
+.f4 {
+    font-size: 20px;
+    font-weight: bold;
+    color: rgb(226, 98, 83);
+}
+.f3 {
+    font-size: 20px;
+    font-weight: bold;
+    color: rgb(226, 98, 83);
+}
+.f2 {
+    font-size: 20px;
+    font-weight: bold;
+    color: rgb(226, 98, 83);
+}
+.f5 {
+    font-size: 20px;
+    font-weight: bold;
+    color: rgb(226, 98, 83);
+}
+.wrapper {
+    background-color: white;
+    left: 50%;
+    width: 300px;
+    margin-left: 550px;
+
+
+}
+.input {
+    border: none;
+    color: #555;
+    box-sizing: border-box;
+    font-size: 18px;
+    height: 50px;
+    left: 50%;
+    margin: -25px 0 0 -100px;
+    padding: 10px 0px;
+    position: relative;
+    top: 50%;
+    width: 200px;
+    outline: none;
+}
+hr {
+    width: 50%;
+}
+.container-two {
+    display: flex;
+    width: 80%;
+    margin-left: 150px;
+    text-align: justify;
+}
+.box-one {
+    border: 1px solid;
+    padding: 20px;
+    margin: 10px;
+    height: 300px;
+    background-color: yellow;
+
+}
+.box-two {
+    border: 1px solid;
+    padding: 20px;
+    margin: 10px;
+    height: 300px;
+    background-color: pink;
+
+}
+.box-three {
+    border: 1px solid;
+    padding: 20px;
+    margin: 10px;
+    height: 300px;
+    background-color: rgb(207, 155, 57)
+}
+.fix-width {
+    width: 50px;
+}
+.Fleg-content {
+    display: flex;
+    text-align: justify;
+    border-left: 30px;
+    margin-left: 140px;
+    margin-top: 50px;
+    padding: 10px;
+    column-gap: 50px;
+}
+.half {
+    width: 30%;
+    margin-left: 10px;
+}
+.half-two {
+    width: 50%;
+}
+.less-width {
+    width: 30%;
+    margin-right: 50px;
+}
+#font-two {
+    width: 40%;
+    text-align: justify;
+    margin-left: 400px;
+    color: grey;
+    font-size: 20px;
+}
+.last-container {
+    display: flex;
+    margin-left: 25%;
+    margin-right: 30%;
+    width: 450px;
+    border: 2px solid green;
+    border-radius: 5px;
+    padding-left: 200px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    background-color: rgb(233, 233, 108);
+
+}
+.button{
+    background-color: yellowgreen;
+    text-decoration: none;
+    border: 2px solid;
+    border-radius: 5px;
+}
+#id{
+    background-color:lightpink;
+}
+.Footer{
+    width: 100%;
+    height: 150px;
+    background-color: black;
+    
+}
+.new{
+    font-size: 40px;
+    text-align: center;
+    font-style: italic;
+    color:orange;
+    padding-top: 30px;
+}
+.new-two{
+    color: white;
+    position: relative;
+    text-align: center;
+    
+}
